@@ -7,4 +7,4 @@
 
 如果没有PyPDF2库请命令行执行 pip install PyPDF2
 
-[Releases](https://github.com/fa1247/merge_pdf_invoice/releases)中为pyinstaller打包的单个可执行文件
+[Release](https://github.com/fa1247/merge_pdf_invoice/releases)中为pyinstaller打包的单个可执行文件
